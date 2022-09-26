@@ -1,0 +1,43 @@
+.container {
+  background-color: #ffd569;
+  height: 100vh;
+  padding: 80px;
+}
+.card-container {
+  background-color: #ffffff;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+.heading {
+}
+.img-container {
+  display: flex;
+  justify-content: space-between;
+}
+.img {
+  margin: 80px;
+  margin-top: 150px;
+
+  width: 300px;
+}
+.fruit-box {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  padding: 10px;
+  background-color: #007bff;
+  border-width: 0px;
+  color: #ffffff;
+  border-radius: 5px;
+}
+
+.count {
+  color: #ffd569;
+}
